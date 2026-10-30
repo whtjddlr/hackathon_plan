@@ -1,0 +1,21 @@
+# This repository contains preparation references only, never assessment work.
+.env
+.env.*
+*.pem
+*.key
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.log
+*.zip
+*.tar.gz
+__pycache__/
+node_modules/
+private/
+hackathon-private/
+assessment/
+task-data/
+work/
+results/
+submissions/
